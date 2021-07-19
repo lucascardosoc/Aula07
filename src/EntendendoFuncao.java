@@ -1,5 +1,5 @@
 
-public class Entendendofuncao {
+public class EntendendoFuncao {
 
 	public static void saudacao() {
 		System.out.println("Olá, tudo bem?");
